@@ -1,0 +1,6 @@
+baseURL: http://aosho235.com/hugo1/
+languageCode: ja-jp
+title: Hugoを使ってみた
+uglyURLs: true
+params:
+    myName: ドラえもん
